@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Hubballi&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&display=swap");
+
+.hero-banner {
+  width: 100%;
+  height: 700px;
+  object-fit: cover;
+}
+
+.box {
+  border: 2px solid black;
+  border-radius: 6px;
+}
+
+.hero-banner-text {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+}
+.banner-text {
+  color: blueviolet;
+  font-family: "bebas neue", cursive;
+}
+
+h1 {
+  font-size: 47px;
+  font-family: "bebas neue", cursive;
+}
+h2 {
+  font-size: 48px;
+  font-family: "Bebas Neue", cursive;
+}
+.button-banner-text {
+  background-color: blueviolet;
+  color: white;
+  font-family: sans-serif;
+  font-size: larger;
+  width: 145px;
+  height: 40px;
+}
+
+.button-banner-text:hover {
+  background-color: rgba(220, 220, 220);
+}
+
+.container-shos {
+  display: flex;
+  justify-content: center;
+  margin: 0px 10%;
+}
+
+.shos-img {
+  margin: 50px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}

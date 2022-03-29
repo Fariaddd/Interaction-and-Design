@@ -130,7 +130,6 @@ h2 {
 .div-container {
   margin: 5px;
   width: 100%;
-  text-decoration: none;
 }
 
 .img {
@@ -147,7 +146,6 @@ button {
   margin-top: 10px;
   width: 150px;
   height: 40px;
-  font-family: "bebas neue", cursive;
 }
 
 h1 {
